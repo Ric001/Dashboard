@@ -10,6 +10,6 @@ namespace IdentityScaffoldingII.Models
         public DateTimeOffset DayMade { get; set; }
         public string Matricula { get; set; }
      //ESTO ES UNA PRUEBITA.
-    
+    //Sin parangon
     }
 }
